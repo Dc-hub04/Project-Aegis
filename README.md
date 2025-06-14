@@ -15,7 +15,7 @@ Think of this cocoon as a smart safe for data. It holds two things:
 
 The data now protects **itself**, no matter where it goes. We are no longer just securing the pipes; we are securing the data itself, turning abstract legal requirements into automated, enforceable code.
 
-![Aegis Architecture](Project_Aegis_Architecture.png)
+![Aegis Architecture](Project_Aegis_Architecture.jpg)
 *A high-level overview of the Aegis Framework, demonstrating the mediated access model.*
 
 ---
